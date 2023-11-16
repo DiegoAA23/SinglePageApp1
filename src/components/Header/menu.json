@@ -1,0 +1,22 @@
+[
+    {
+        "id":"menu1",
+        "label":"Menu 1",
+        "link": "/"
+    },
+    {
+        "id":"menu2",
+        "label":"Menu 2",
+        "link": "/menu2"
+    },
+    {
+        "id":"menu3",
+        "label":"Menu 3",
+        "link": "/menu3"
+    },
+    {
+        "id":"menu4",
+        "label":"Menu 4",
+        "link": "/menu4"
+    }
+]

@@ -1,0 +1,3 @@
+.cardGallery {
+    @apply flex flex-wrap flex-row justify-center items-center;
+}

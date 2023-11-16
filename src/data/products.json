@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Producto 1",
+        "imgUrl": "https://picsum.photos/id/388/320/320",
+        "descripcion": "Producto de chocolate",
+        "precio": "100"
+    },
+    {
+        "title": "Producto 2",
+        "imgUrl": "https://picsum.photos/id/393/320/320",
+        "descripcion": "Producto de chocolate",
+        "precio": "110"
+    },
+    {
+        "title": "Producto 3",
+        "imgUrl": "https://picsum.photos/id/392/320/320",
+        "descripcion": "Producto de chocolate",
+        "precio": "200"
+    },
+    {
+        "title": "Producto 4",
+        "imgUrl": "https://picsum.photos/id/391/320/320",
+        "descripcion": "Producto de chocolate",
+        "precio": "130"
+    },
+    {
+        "title": "Producto 5",
+        "imgUrl": "https://picsum.photos/id/390/320/320",
+        "descripcion": "Producto de chocolate",
+        "precio": "400"
+    },
+    {
+        "title": "Producto 6",
+        "imgUrl": "https://picsum.photos/id/386/320/320",
+        "descripcion": "Producto de chocolate",
+        "precio": "300"
+    }
+]

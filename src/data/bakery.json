@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Pastel 1",
+        "imgUrl": "https://picsum.photos/id/488/320/320",
+        "descripcion": "Pastel de chocolate",
+        "precio": "100"
+    },
+    {
+        "title": "Pastel 2",
+        "imgUrl": "https://picsum.photos/id/493/320/320",
+        "descripcion": "Pastel de chocolate",
+        "precio": "110"
+    },
+    {
+        "title": "Pastel 3",
+        "imgUrl": "https://picsum.photos/id/492/320/320",
+        "descripcion": "Pastel de chocolate",
+        "precio": "200"
+    },
+    {
+        "title": "Pastel 4",
+        "imgUrl": "https://picsum.photos/id/491/320/320",
+        "descripcion": "Pastel de chocolate",
+        "precio": "130"
+    },
+    {
+        "title": "Pastel 5",
+        "imgUrl": "https://picsum.photos/id/490/320/320",
+        "descripcion": "Pastel de chocolate",
+        "precio": "400"
+    },
+    {
+        "title": "Pastel 6",
+        "imgUrl": "https://picsum.photos/id/486/320/320",
+        "descripcion": "Pastel de chocolate",
+        "precio": "300"
+    }
+]
