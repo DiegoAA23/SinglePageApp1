@@ -1,23 +1,23 @@
-import './App.css'
+import './App.css';
+import { Home } from './pages/Home';
+import { About } from './pages/About';
+import { Pricing } from './pages/Pricing';
+import { Documentation } from './pages/Documentation';
 
-import { CardGallery } from './components/CardsGallery/CardsGallery';
-import Page from './pages/Page';
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
-import cardData from './data/bakery.json';
-import productos from './data/products.json';
+
 
 function App() {
   return (
-    <>
-      <Page title="Home Page">
-        <section>
-          <h2 className="m-4 p-4 bg-blue-400 text-red-400">Seccion XyZ</h2>
-          <CardGallery cards={cardData}/>
-          <hr/>
-          <CardGallery cards={productos}/>
-        </section>
-      </Page>
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={ <About /> } />
+        <Route path="/documentation" element={<Documentation />} />
+        <Route path="/pricing" element={<Pricing/>} />
+      </Routes>
+     </Router>
   )
 }
 

@@ -1,9 +1,10 @@
 import menues from './menu.json';
+import {Link} from 'react-router-dom';
 import './header.css';
 const Header = ()=>{
     const menuesUx = menues.map((menu)=>{
         return (
-            <li key={menu.id}><a href={menu.link}>{menu.label}</a></li>
+            <li key={menu.id}><Link to={menu.link}>{menu.label}</Link></li>
         );
     });
     return (

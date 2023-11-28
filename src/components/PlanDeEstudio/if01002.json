@@ -1,0 +1,798 @@
+{
+    "Bloques": [
+        {
+            "BloqueNom": "I                             ",
+            "CrCBloque": "  1",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "ES101  ",
+                            "clanom": "ESPAÑOL                                                     ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[\"IF01002_ES201\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "MT101  ",
+                            "clanom": "MATEMATICAS                                                 ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[\"IF01002_FS201\",\"IF01002_MT201\",\"IF01002_MT202\",\"IF01002_MT204\"]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "IF112  ",
+                            "clanom": "INTRODUCCIÓN A LAS CIENCIAS DE LA COMPUTACIÓN               ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[\"IF01002_IF200\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "SC101  ",
+                            "clanom": "SOCIOLOGÍA                                                  ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "FI101  ",
+                            "clanom": "FILOSOFÍA                                                   ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[\"IF01002_CR201\"]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "II                            ",
+            "CrCBloque": "  2",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "ES201  ",
+                            "clanom": "EXPRESIÓN ORAL Y ESCRITA                                    ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_ES101\"],\"RQO\":[]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "MT201  ",
+                            "clanom": "PRE CALCULO                                                 ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT101\"],\"RQO\":[\"IF01002_MT303\"]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "IF200  ",
+                            "clanom": "FUNDAMENTOS Y LÓGICA DE PROGRAMACIÓN                        ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF112\"],\"RQO\":[\"IF01002_IF213\",\"IF01002_IF214\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "HS101  ",
+                            "clanom": "HISTORIA DE HONDURAS                                        ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "CR201  ",
+                            "clanom": "EL HOMBRE FRENTE A LA VIDA                                  ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_FI101\"],\"RQO\":[\"IF01002_FI501\"]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "III                           ",
+            "CrCBloque": "  3",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "MT202  ",
+                            "clanom": "ESTADÍSTICA I                                               ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT101\"],\"RQO\":[\"IF01002_AD302\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "MT303  ",
+                            "clanom": "CALCULO I                                                   ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT201\"],\"RQO\":[\"IF01002_MT401\"]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "IF214  ",
+                            "clanom": "PROGRAMACIÓN ESTRUCTURADA I                                 ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF200\"],\"RQO\":[\"IF01002_IF303\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF213  ",
+                            "clanom": "ESTRUCTURAS DISCRETAS                                       ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF200\"],\"RQO\":[]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "IV                            ",
+            "CrCBloque": "  4",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "AD302  ",
+                            "clanom": "MÉTODOS Y TÉCNICAS DE INVESTIGACIÓN                         ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT202\"],\"RQO\":[]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "MT401  ",
+                            "clanom": "CALCULO II                                                  ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT303\"],\"RQO\":[]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "IF303  ",
+                            "clanom": "PROGRAMACIÓN ESTRUCTURADA II                                ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF214\"],\"RQO\":[\"IF01002_IF325\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "FS201  ",
+                            "clanom": "FÍSICA I                                                    ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT101\"],\"RQO\":[\"IF01002_IF319\"]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "AD101  ",
+                            "clanom": "ADMINISTRACIÓN                                              ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "V                             ",
+            "CrCBloque": "  5",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF322  ",
+                            "clanom": "BASES DE DATOS I                                            ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_30\"],\"RQO\":[\"IF01002_IF327\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "CT201  ",
+                            "clanom": "CONTABILIDAD                                                ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_30\"],\"RQO\":[]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF325  ",
+                            "clanom": "PROGRAMACIÓN EN ENTORNOS DE DESARROLLO VISUAL               ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF303\"],\"RQO\":[]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF319  ",
+                            "clanom": "PRINCIPIOS DE  ELETRÓNICA                                   ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_FS201\"],\"RQO\":[\"IF01002_IF324\"]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "MT204  ",
+                            "clanom": "MATEMÁTICAS FINANCIERA                                      ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT101\"],\"RQO\":[]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "VI                            ",
+            "CrCBloque": "  6",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF327  ",
+                            "clanom": "BASES DE DATOS II                                           ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF322\"],\"RQO\":[\"IF01002_IF342\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "FI501  ",
+                            "clanom": "ÉTICA PROFESIONAL                                           ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_CR201\"],\"RQO\":[\"IF01002_CR501\"]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF212  ",
+                            "clanom": "ANÁLISIS Y DISEÑO DE SISTEMAS                               ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_40\"],\"RQO\":[\"IF01002_IF314\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF323  ",
+                            "clanom": "REDES I                                                     ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_40\"],\"RQO\":[\"IF01002_IF328\"]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "IF324  ",
+                            "clanom": "CIRCUITOS LÓGICOS                                           ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF319\"],\"RQO\":[\"IF01002_IF329\"]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "VII                           ",
+            "CrCBloque": "  7",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF342  ",
+                            "clanom": "BASES DE DATOS MULTIDIMENSIONAL                             ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF327\"],\"RQO\":[\"IF01002_IF391\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF340  ",
+                            "clanom": "PROGRAMACIÓN MULTIPLATAFORMA                                ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_50\"],\"RQO\":[\"IF01002_IF353\"]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF314  ",
+                            "clanom": "DESARROLLO DE SOFTWARE                                      ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF212\"],\"RQO\":[\"IF01002_IF346\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "IF328  ",
+                            "clanom": "REDES II                                                    ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF323\"],\"RQO\":[]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 4
+                        },
+                        {
+                            "clacod": "IF329  ",
+                            "clanom": "SISTEMAS AUTOMATIZADOS                                      ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF324\"],\"RQO\":[]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "VIII                          ",
+            "CrCBloque": "  8",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF391  ",
+                            "clanom": "SISTEMAS INTELIGENTES PARA NEGOCIOS                         ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF342\"],\"RQO\":[\"IF01002_IF350\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF346  ",
+                            "clanom": "IMPLEMENTACIÓN DE SISTEMAS DE SOFTWARE                      ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF314\"],\"RQO\":[]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF345  ",
+                            "clanom": "SISTEMAS OPERATIVOS I                                       ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_60\"],\"RQO\":[\"IF01002_IF352\"]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF370  ",
+                            "clanom": "MICROCONTROLADORES                                          ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_60\"],\"RQO\":[\"IF01002_IF381\"]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "IX                            ",
+            "CrCBloque": "  9",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF353  ",
+                            "clanom": "DESARROLLO DE PORTALES WEB I                                ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF340\"],\"RQO\":[\"IF01002_IF357\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF351  ",
+                            "clanom": "PROGRAMACIÓN MOVIL I                                        ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_60\"],\"RQO\":[\"IF01002_IF355\"]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "AD104  ",
+                            "clanom": "GESTIÓN DE LA CALIDAD TOTAL                                 ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_60\"],\"RQO\":[\"IF01002_MT304\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF352  ",
+                            "clanom": "SISTEMAS OPERATIVOS II                                      ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF345\"],\"RQO\":[]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF381  ",
+                            "clanom": "SEMINARIO DE HARDWARE Y ELECTRICIDAD                        ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF370\"],\"RQO\":[]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "X                             ",
+            "CrCBloque": " 10",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF357  ",
+                            "clanom": "DESARROLLO DE PORTALES WEB II                               ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF353\"],\"RQO\":[\"IF01002_IF362\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF355  ",
+                            "clanom": "PROGRAMACIÓN MOVIL II                                       ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF351\"],\"RQO\":[]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "MT304  ",
+                            "clanom": "CONTROL ESTADÍSTICO DE LA CALIDAD                           ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_AD104\"],\"RQO\":[\"IF01002_AD402\"]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF356  ",
+                            "clanom": "GESTIÓN Y ESTANDARES DE TECNOLOGÍA DE INFORMACIÓN           ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_70\"],\"RQO\":[\"IF01002_IF358\",\"IF01002_IF360\"]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "CR501  ",
+                            "clanom": "DOCTRINA SOCIAL DE LA IGLESIA                               ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_FI501\"],\"RQO\":[]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "XI                            ",
+            "CrCBloque": " 11",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF362  ",
+                            "clanom": "NEGOCIOS WEB                                                ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF357\"],\"RQO\":[\"IF01002_IF361\"]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF347  ",
+                            "clanom": "PROGRAMACIÓN DE NEGOCIOS                                    ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_80\"],\"RQO\":[\"IF01002_IF392\"]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "AD402  ",
+                            "clanom": "PLANEACIÓN Y DISEÑO DE UN MODELO DE CALIDAD                 ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_MT304\"],\"RQO\":[]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF360  ",
+                            "clanom": "SEGURIDAD INFORMÁTICA Y GESTIÓN DE RIESGO                   ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF356\"],\"RQO\":[\"IF01002_IF380\"]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF358  ",
+                            "clanom": "ADMINISTRACIÓN DE CENTROS DE COMPUTO                        ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF356\"],\"RQO\":[]}",
+                            "Index": 5,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "XII                           ",
+            "CrCBloque": " 12",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF361  ",
+                            "clanom": "SEMINARIO-TALLER DE SOFTWARE                                ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF362\"],\"RQO\":[]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF392  ",
+                            "clanom": "GESTIÓN DE PROYECTOS INFORMÁTICOS                           ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF347\"],\"RQO\":[]}",
+                            "Index": 2,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF350  ",
+                            "clanom": "BIG DATA                                                    ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF391\"],\"RQO\":[]}",
+                            "Index": 3,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        },
+                        {
+                            "clacod": "IF380  ",
+                            "clanom": "AUDITORÍA DE SISTEMAS DE INFORMACIÓN                        ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[\"IF01002_IF360\"],\"RQO\":[]}",
+                            "Index": 4,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "BloqueNom": "XIII                          ",
+            "CrCBloque": " 13",
+            "Carreras": [
+                {
+                    "carcod": "IF01002",
+                    "carnom": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN                                        ",
+                    "asignaturas": [
+                        {
+                            "clacod": "IF400  ",
+                            "clanom": "PRÁCTICA PROFESIONAL SUPERVISADA                            ",
+                            "clatip": "",
+                            "data": "{\"APR\":\"N\",\"TIP\":\"AVL\",\"ERQ\":\"N\",\"MVD\":\"N\",\"RQT\":[],\"RQO\":[]}",
+                            "Index": 1,
+                            "url": "",
+                            "GroupData": "",
+                            "GroupDataDsc": "",
+                            "Creditos": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

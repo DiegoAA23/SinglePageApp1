@@ -1,0 +1,6 @@
+.pokedisplay {
+    @apply flex flex-col items-center;
+}
+.pokedisplay img{
+    @apply w-full object-cover;
+}
